@@ -1,0 +1,49 @@
+body {
+  padding: 5px;
+  margin: 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body h2 {
+  text-align: center;
+  font-size: 39px;
+  font-family: monospace;
+}
+
+body .convert {
+  margin: 30px auto;
+  width: 450px;
+  height: 300px;
+  padding: 50px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+}
+
+body .convert form .fromCurrency {
+  margin: 20px 0px;
+}
+
+body .convert form .toCurrency {
+  margin: 20px 0px;
+}
+
+body .convert form select {
+  font-size: 15px;
+  padding: 4px;
+}
+
+body .convert form input {
+  font-size: 15px;
+  padding: 4px 22px;
+}
+
+body .convert form label {
+  font-size: 22px;
+  font-family: monospace;
+}
+
+body .convert form .result {
+  margin: 20px 0px;
+}
+/*# sourceMappingURL=main.css.map */
